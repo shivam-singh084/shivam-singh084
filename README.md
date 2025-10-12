@@ -53,9 +53,8 @@ graph TD
     S --> V[📊 Internships & Experience]
     V --> W[Cisco Networking Academy]
     V --> X[Deloitte Data Analytics Virtual Internship]
-
-
----
+<br>
+```
 
 ### 🧠 Tech Stack 
 
