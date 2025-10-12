@@ -25,14 +25,35 @@
 ### ⚙️ Tech Flow 🧩
 
 ```mermaid
-flowchart LR
-A[💻 Programming] --> B[C++ | Java | Python | JS | SQL]
-B --> C[⚙️ Frameworks]
-C --> D[React | Node.js | Express | TensorFlow | Sklearn]
-D --> E[🧠 Projects]
-E --> F[🚀 Deployment & Tools]
-F --> G[Git | VS Code | IntelliJ | Tableau | Power BI]
-```
+graph TD
+    A[💻 Programming Languages] --> B[C++]
+    A --> C[Java]
+    A --> D[Python]
+    A --> E[JavaScript]
+    A --> F[SQL]
+
+    B & C & D & E & F --> G[⚙️ Frameworks & Libraries]
+    G --> H[React.js]
+    G --> I[Node.js]
+    G --> J[Express.js]
+    G --> K[TensorFlow]
+    G --> L[Scikit-learn]
+
+    G --> M[🛠️ Tools & Platforms]
+    M --> N[Git & GitHub]
+    M --> O[VS Code]
+    M --> P[IntelliJ IDEA]
+    M --> Q[Tableau]
+    M --> R[Power BI]
+
+    M --> S[🚀 Projects]
+    S --> T[Real-Time Sign Language Translator]
+    S --> U[TripNest – Travel Planning App]
+
+    S --> V[📊 Internships & Experience]
+    V --> W[Cisco Networking Academy]
+    V --> X[Deloitte Data Analytics Virtual Internship]
+
 
 ---
 
