@@ -48,12 +48,11 @@ graph TD
 
     M --> S[🚀 Projects]
     S --> T[Real-Time Sign Language Translator]
-    S --> U[TripNest – Travel Planning App]
+    S --> U[TripNest Travel Planning App]
 
     S --> V[📊 Internships & Experience]
     V --> W[Cisco Networking Academy]
     V --> X[Deloitte Data Analytics Virtual Internship]
-<br>
 ```
 
 ### 🧠 Tech Stack 
@@ -146,7 +145,7 @@ graph TD
   <a href="mailto:shivamsingh82028@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/shivamsingh084"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/shivam-singh084"><img src="https://img.shields.io/badge/🧑‍💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+</p> 
 
 ---
 
