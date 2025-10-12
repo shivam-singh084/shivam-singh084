@@ -1,25 +1,45 @@
-<!-- Profile README for Shivam Kumar Singh -->
+<!-- Fancy GitHub Profile README for Shivam Kumar Singh -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#58a6ff;">Shivam Kumar Singh</span></h1>
+<h1 align="center">✨ Hey there, I'm <span style="color:#58a6ff;">Shivam Kumar Singh</span> 👋</h1>
 
 <p align="center">
   🎯 <b>Aspiring Software Developer</b> | 💻 <b>AI & DS Student</b> | 🚀 <b>Full-Stack & ML Enthusiast</b>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Code.+Learn.+Build.+Repeat.;Passionate+Developer+%7C+Problem+Solver;AI+%26+Web+Development+Enthusiast;Exploring+the+Intersection+of+Logic+%26+Creativity" alt="Typing SVG" />
+</p>
+
 ---
 
 ### 🌟 About Me  
-🎓 B.Tech student at **G.L. Bajaj Institute of Technology and Management, Greater Noida (2023–2027)**  
-💡 Passionate about building scalable software and solving real-world problems through code.  
-🧠 Strong in **Data Structures, Algorithms, OOP, and System Design**.  
-📈 Solved **300+ problems** on platforms like LeetCode.  
-🤝 Open to collaborations on **AI, Web Development, and Cloud Projects**.  
+
+🧑‍🎓 B.Tech Student @ **G.L. Bajaj Institute of Technology & Management (2023–2027)**  
+💡 Love to create **scalable software** & **solve real-world problems** using code.  
+🧠 Skilled in **DSA**, **OOP**, and **System Design**.  
+🏆 Solved **300+ problems** across LeetCode & other platforms.  
+🤝 Open to collaborating on **AI, Web, and Cloud** projects.  
 
 ---
 
-### ⚙️ Tech Stack  
+### ⚙️ Tech Flow 🧩
+
+```mermaid
+flowchart LR
+A[💻 Programming] --> B[C++ | Java | Python | JS | SQL]
+B --> C[⚙️ Frameworks]
+C --> D[React | Node.js | Express | TensorFlow | Sklearn]
+D --> E[🧠 Projects]
+E --> F[🚀 Deployment & Tools]
+F --> G[Git | VS Code | IntelliJ | Tableau | Power BI]
+```
+
+---
+
+### 🧠 Tech Stack 
 
 <p align="center">
+
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -29,6 +49,7 @@
 </p>
 
 <p align="center">
+
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
@@ -38,6 +59,7 @@
 </p>
 
 <p align="center">
+
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -48,42 +70,44 @@
 
 ---
 
-### 🧩 Featured Projects  
+## 🚀 Featured Projects  
 
-#### 🖐️ Real-Time Sign Language Translator  
+### 🖐️ Real-Time Sign Language Translator  
 > **Tech:** Python, TensorFlow, OpenCV, Deep Learning  
-- Achieved **92% accuracy** translating ASL gestures in real-time.  
-- Built a CNN-based model with **transfer learning** and **data augmentation**.  
-- Developed a GUI for real-time visualization of recognized gestures.  
-🔗 [View Project](https://github.com/shivam-singh084/SignLanguageTranslator)
-
-#### 🌍 TripNest – Travel Planning Web App  
-> **Tech:** React, Node.js, Express.js, MongoDB  
-- Designed and developed a full-stack travel app for users to explore and bookmark destinations.  
-- Integrated **REST APIs**, **authentication**, and **MongoDB** for scalability.  
-🔗 [View Project](https://github.com/shivam-singh084/TripNest)
+- 🧠 Built a **CNN model** achieving **92% accuracy** for ASL gestures.  
+- 🎥 Real-time gesture recognition with GUI integration.  
+🔗 [**View Project**](https://github.com/shivam-singh084/SignLanguageTranslator)
 
 ---
 
-### 💼 Experience  
-
-#### 🌐 Cisco Networking Academy — *Virtual Internship (Summer 2025)*  
-- Practiced **networking fundamentals, VLANs, routing, and security protocols**.  
-- Completed **10+ labs** improving practical understanding of network troubleshooting.
-
-#### 📊 Deloitte — *Data Analytics Virtual Internship (Apr 2024)*  
-- Built an **interactive Tableau dashboard** as part of Deloitte’s job simulation.  
-- Analyzed datasets and applied **data visualization and forensic analytics** skills.
+### 🌍 TripNest – Travel Planning Web App  
+> **Tech:** React, Node.js, Express, MongoDB  
+- ✈️ Full-stack travel planner for exploring/bookmarking destinations.  
+- 🔐 Integrated authentication and REST APIs with MongoDB.  
+🔗 [**View Project**](https://github.com/shivam-singh084/TripNest)
 
 ---
 
-### 📜 Certifications  
-🏅 **Full Stack Web Development (Udemy)** – Frontend & Backend Development (Jun 2024)  
-🏅 **Deloitte Data Analytics Virtual Internship** (Apr 2024)  
+## 💼 Experience  
+
+### 🌐 Cisco Networking Academy — *Virtual Internship (Summer 2025)*  
+- 🧩 Gained hands-on with **VLANs, routing, and network security**.  
+- ⚙️ Completed **10+ labs** focusing on practical troubleshooting.
+
+### 📊 Deloitte — *Data Analytics Virtual Internship (Apr 2024)*  
+- 📈 Built an **interactive Tableau dashboard** from real datasets.  
+- 🧮 Applied **data visualization and forensic analytics** concepts.
 
 ---
 
-### 📈 GitHub Analytics  
+## 🏅 Certifications  
+
+- 🎓 **Full Stack Web Development (Udemy)** – Frontend & Backend (Jun 2024)  
+- 📊 **Deloitte Data Analytics Virtual Internship** (Apr 2024)
+
+---
+
+## 📊 GitHub Analytics  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivam-singh084&show_icons=true&theme=tokyonight" height="160px"/>
@@ -96,14 +120,23 @@
 
 ---
 
-### 🌐 Connect With Me  
+## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:shivamsingh82028@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/shivamsingh084"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/shivam-singh084"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:shivamsingh82028@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/shivamsingh084"><img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shivam-singh084"><img src="https://img.shields.io/badge/🧑‍💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
+<h3 align="center">⭐ "Dream. Code. Build. Repeat." ⭐</h3>
+
+<p align="center">
+  <img src="https://github.com/shivam-singh084/shivam-singh084/blob/main/assets/wave.svg" width="100%" />
+</p>
+
+
 <h3 align="center">⭐️ "Code. Learn. Build. Repeat." ⭐️</h3>
+
+
